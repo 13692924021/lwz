@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about-about",
+    "path": "/about/about",
+    "component": "F:\\\\公司项目\\\\weizheng\\\\nuxt\\\\demo\\\\pages\\\\about\\\\about.vue",
+    "chunkName": "pages/about/about",
+    "_name": "_3e3f0e56"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\公司项目\\\\weizheng\\\\nuxt\\\\demo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c4575f68"
+  }
+]
